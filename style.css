@@ -1,0 +1,75 @@
+.div1 {
+    width: 500px;
+    height: 250px;
+}
+
+#color-btn {
+    color: white;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 80px;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: green;
+}
+
+.rand {
+    font-size: 50px;
+    margin-left: 50px;
+    font-family: fantasy;
+}
+
+.div2 {
+    width: 600px;
+    height: 500px;
+}
+
+#input-text {
+    margin-left: 30px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#input1 {
+    margin-left: 50px;
+    width: 250px;
+    height: 20px;
+}
+
+#add {
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 80px;
+    background-color: white;
+    color: black;
+}
+
+#add:hover {
+    color: white;
+    background-color: black;
+    transition: 200ms;
+}
+
+#del {
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: white;
+    color: black;
+}
+
+#del:hover {
+    color: white;
+    background-color: black;
+    transition: 200ms;
+}
+
+table {
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: black;
+}
